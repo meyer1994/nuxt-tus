@@ -15,7 +15,7 @@
     "@aws-sdk/client-s3": "3.855.0",
     "@nuxtjs/tailwindcss": "6.14.0",
     "@trpc/client": "^11.4.3",
-    "@trpc/server": "^11.4.3",
+    "@trpc/server": "^11.8.0",
     "@tus/file-store": "^2.0.0",
     "@tus/s3-store": "^2.0.0",
     "@tus/server": "^2.2.0",
